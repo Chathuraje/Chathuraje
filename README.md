@@ -11,7 +11,7 @@
 ## 📍 Contact & Links
 
 - 📧 **Email**: [chathuraje01@gmail.com](mailto:chathuraje01@gmail.com)  
-- 🌐 **Portfolio**: [Portfolio](https://sites.google.com/view/chathuraje/home?authuser=0)  
+- 🌐 **Portfolio**: [Portfolio](https://chathura.digitix365.com)  
 - 🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/chathuraje/)
 
 ---
