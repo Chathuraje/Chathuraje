@@ -1,88 +1,141 @@
 # 👋 Hi, I'm **Chathura J Ekanayake**!
 
-**Current Position**: Software Engineer / Lead Web Developer  
-**Experience**:  
-- **Software and Web Developer** (Freelance - Since 2010 - Present)  
-- **Trainee System Administrator and Software Engineer Intern** (March 2022 - August 2021 · 11 months)  
-- **Web Developer** (Feb 2022 - Jan 2023 · 1 year)  
-- **Senior Web Developer** (Feb 2023 - Dec 2023 · 11 months)  
-- **Lead Web Developer** (February 2022 - Present)  
+**Current Role**: Software Engineer  
+**Experience**: 4+ years of professional software engineering and full-stack web development experience.
 
-## 📍 Contact & Links
+---
 
+## 💼 Work Experience
+
+- **Software Engineer / Associate Software Engineer**  
+  _Code94 Labs (Pvt) Ltd – Feb 2022 to Present_  
+  - Architected full-stack applications using **React.js** and **Next.js** for business-critical workflows.  
+  - Implemented UI components with **Material UI**, API integrations with **Axios**, and real-time sync using **Firebase**.  
+  - Designed serverless automations with **n8n**, reducing manual workloads through AI-powered workflows.  
+  - Deployed scalable backend systems via **AWS Lambda**, **S3**, **EC2**, **CloudWatch**, and **CodePipeline**.  
+  - Managed CI/CD pipelines with **GitHub Actions**, ensuring rapid, reliable releases.  
+  - Worked in agile teams, maintaining high code quality, test coverage, and architectural standards.
+
+- **Software Engineer Intern**  
+  _Terratecma (Pvt) Ltd – Aug 2021 to Feb 2022_  
+  - Built frontend modules in **React** and **Material UI**, and integrated **Firebase Firestore** for real-time updates.  
+  - Participated in daily standups, sprint planning, and QA testing cycles.
+
+- **WordPress Developer / Trainee System Administrator**  
+  _Yomboc (Pvt) Ltd – Oct 2020 to Aug 2021_  
+  - Developed custom themes, plugins, and responsive pages using **Elementor**, **Gutenberg**, and REST APIs.  
+  - Managed server performance, configured **Apache/Nginx**, handled **cPanel/WHM**, and deployed websites securely.
+
+---
+
+## 📍 Contact
+
+- 🌐 **Portfolio**: [chathura.digitix365.com](https://chathura.digitix365.com)  
 - 📧 **Email**: [chathuraje01@gmail.com](mailto:chathuraje01@gmail.com)  
-- 🌐 **Portfolio**: [Portfolio](https://chathura.digitix365.com)  
-- 🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/chathuraje/)
+- 🧑‍💼 **LinkedIn**: [linkedin.com/in/chathuraje](https://www.linkedin.com/in/chathuraje/)  
+- 💻 **GitHub**: [github.com/chathuraje](https://github.com/chathuraje)  
+- 📱 **Phone**: +94 77 968 1281  
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 **Programming Languages**
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) Java
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) C
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) C++
-- ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) Solidity
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow
-- ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) Scikit-Learn
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### 🔧 Backend, DevOps & Cloud
+- **FastAPI**, **Node.js**, **n8n**, **NestJS**, **Make.com**  
+- **AWS** (Lambda, EC2, S3, CloudWatch, CodePipeline)  
+- **Docker**, **GitHub Actions**, **Digital Ocean**, **Vercel**  
+- **Firebase**, **MongoDB**, **MySQL**, **Redis**  
+- **CI/CD**, **Linux CLI**, **Apache/Nginx**, **Cron Jobs**
+
+### 📦 CMS & WordPress
+- Custom Plugin Dev, Elementor, Gutenberg, REST API Integration  
+- Advanced Admin UI, Airtable Sync, Role Management
+
+### 🤖 Machine Learning
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow  
+- ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) Scikit-learn
 
 ---
 
-### 🌐 **Web Development**
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) PHP
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React (MERN)
-- ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) Express Js
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap
-- ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white) Material UI
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) Django
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) Laravel
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white) SQL / MySQL
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) Mongo DB
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) Firebase
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
+## 🧠 Projects
+
+### 🎵 Melody Mint – Blockchain-Powered Music Investment
+Smart contract-based platform for artists and investors.  
+- **Solidity + Hardhat**, **FastAPI**, **React.js**, **Ethers.js**  
+- Wallet authentication, investment dashboards, royalty distribution  
+- [View on GitHub](#)
+
+### 🛡 SaferNet – AI-Powered Domain Safety Tool
+Real-time threat detection & URL classification using ML.  
+- Built with **FastAPI**, **scikit-learn**, and **PostgreSQL**  
+- REST APIs for whitelisting/blacklisting, domain safety checks  
+- [View on GitHub](#)
+
+### 🎮 WordPlay – Interactive Word Game
+Browser-based word game powered by automation.  
+- Built with **Next.js**, **TailwindCSS**, **shadcn/ui**, and **n8n**  
+- Hosted on **Vercel** and integrated custom game workflows  
+- [View on GitHub](#)
+
+### 🧩 Adhyathmika Bhikshun Admin Plugin
+Modular WordPress plugin with Airtable sync, dashboards, and UI enhancements.  
+- Fully modular structure with third-party integrations and custom tools  
+- [View on GitHub](#)
 
 ---
 
-### 📦 **CMS & Development Tools**
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) WordPress
-- ![Elementor](https://img.shields.io/badge/Elementor-2308C1?style=flat&logo=elementor&logoColor=white) Elementor
-- Custom Plugin Development
-- Gutenberg
-- REST API Integration
-- WordPress Hooks (Actions & Filters)
+## 🏆 Awards
+
+- 🥉 4th Place – **14th Young Computer Scientist Competition (YCSC)** (2015)  
+- 🎓 **Java Fundamentals – Oracle Academy** (2013)  
+- 💼 **Office Application Certification** (2011)  
+- 📡 **STEMUp Volunteer – SLT Digitastic Expo** (2018, 2019)
 
 ---
 
-### 🖥️ **Server & DevOps**
-- ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white) Apache / Nginx
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) Linux/Unix Command Line
-- Server Configuration
-- Security and Hardening
-- Performance Optimization
-- Deployment & CI/CD
+## 🌱 Soft Skills
+**Team Work · Leadership · Adaptability · Communication · Problem Solving**
+
+## 🌐 Languages
+**Sinhala** (Native) · **English** (Fluent)
+
+## 🧭 Interests
+**Travelling · Camping · Photography · Gaming**
+
+## 🙌 Volunteering
+- **STEMUp Educational Foundation**  
+  - General Volunteer  
+  - Team Lead – Cyber Security for Kids  
 
 ---
 
-### 🎨 **Other Tools**
-- ![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) Office Suite
-- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) Canva
-- ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white) Figma
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chathuraje&show_icons=true&count_private=true&hide=prs)
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Let’s Connect!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chathuraje&show_icons=true&hide_title=true&count_private=true&hide=prs)
+I'm always open to interesting projects, freelance collaborations, or a quick tech chat!  
+Feel free to reach out and say hi 👋
 
----
-
-## 🚀 Let's Connect
-
-Feel free to reach out to me for collaborations, freelance work, or just a tech chat!  
-Looking forward to connecting with you! 😄
